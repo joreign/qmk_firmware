@@ -32,3 +32,10 @@
 
 /* Enable caps-lock LED */
 #define CAPS_LOCK_LED_INDEX 49
+
+/* add layers */
+#define DYNAMIC_KEYMAP_LAYER_COUNT 9
+
+#define UNICODE_SELECTED_MODES UNICODE_MODE_LINUX
+
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
